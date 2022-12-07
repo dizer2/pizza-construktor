@@ -4,6 +4,7 @@
  - Html
  - Css
  - JQuery
+ - Pizza constructor
 
 ---
 
