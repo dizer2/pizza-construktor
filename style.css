@@ -423,7 +423,11 @@
 		border-radius: 5px;
 		margin: 2%;
 	}
-	
+		
+.navbarContainer{
+	padding-left: 0px;
+
+}
 
 }
 @media screen and (max-width: 400px) {
