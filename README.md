@@ -8,4 +8,4 @@
 
 ---
 
-https://dizer2.github.io/pizza-construktor/
+https://pizza-construktor.netlify.app/
